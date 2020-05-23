@@ -1,2 +1,366 @@
 <?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1"><dict><key>PayloadUUID</key><string>90914F2E-81D5-4147-AFDE-708E072768D8</string><key>PayloadType</key><string>Configuration</string><key>PayloadOrganization</key><string>United States Air Force</string><key>PayloadIdentifier</key><string>90914F2E-81D5-4147-AFDE-708E072768D8</string><key>PayloadDisplayName</key><string>DOD ID Intermediate CAs</string><key>PayloadDescription</key><string/><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadRemovalDisallowed</key><false/><key>PayloadScope</key><string>System</string><key>PayloadContent</key><array><dict><key>PayloadUUID</key><string>A2583A0F-3972-4E11-82BA-42AE688E8752</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.A2583A0F-3972-4E11-82BA-42AE688E8752</string><key>PayloadDisplayName</key><string>DOD ID CA-49</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-49.cer</string><key>PayloadContent</key><data>MIIEuTCCA6GgAwIBAgICAScwDQYJKoZIhvcNAQELBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDMwHhcNMTYxMTIyMTM0ODE1WhcNMjIxMTIzMTM0ODE1WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UECgwPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLDANEb0QxDDAKBgNVBAsMA1BLSTEVMBMGA1UEAwwMRE9EIElEIENBLTQ5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2EngKIwPCl9+dsIByO2uONNLKhpnFypBAE+LM8+kekt4/HG6StaU/fmqFTRiVI0Uh+td9BWe8NXOYrhQRo6FVSxBkLtWZX8Px2IHxiqQ1lnrZK9UlCo8h3MPpiN8VEjH2bP/WSa0oZEWzEDKLB5tSKerddc+QL2uEHb+Gfym6i+5qPOLXjV00FY24FdNOyHaRjQTM/LfsjWoFItHTKp5B9QogdKnyg+WkAARYtbd1nqtDXv6Fph5HaT39SEnRhc+lkrRDpDYc+HAU6Xywik+stgv2yFk1MhFpF5/rndEwMLIST0+lSpahJKGmYtg1VKcnDcq5CERC31gl6Yr7ffjAwIDAQABo4IBhjCCAYIwHwYDVR0jBBgwFoAUbIqUonexgHIdgXoWqvLczmbuRcAwHQYDVR0OBBYEFNhnk8pG3MmVppSzBBicziU6lhxNMA4GA1UdDwEB/wQEAwIBhjBnBgNVHSAEYDBeMAsGCWCGSAFlAgELJDALBglghkgBZQIBCycwCwYJYIZIAWUCAQsqMAsGCWCGSAFlAgELOzAMBgpghkgBZQMCAQMNMAwGCmCGSAFlAwIBAxEwDAYKYIZIAWUDAgEDJzASBgNVHRMBAf8ECDAGAQH/AgEAMAwGA1UdJAQFMAOAAQAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5kaXNhLm1pbC9jcmwvRE9EUk9PVENBMy5jcmwwbAYIKwYBBQUHAQEEYDBeMDoGCCsGAQUFBzAChi5odHRwOi8vY3JsLmRpc2EubWlsL2lzc3VlZHRvL0RPRFJPT1RDQTNfSVQucDdjMCAGCCsGAQUFBzABhhRodHRwOi8vb2NzcC5kaXNhLm1pbDANBgkqhkiG9w0BAQsFAAOCAQEATmfPQPkolF5PB0fS/9DrngX0tmdSwlidBtrkY6vL/V7IMKqJk7r+hHW6k9+nxijHFj6YJ1+4ElpH/PwWPsqwVIshQxECvJKfo3OfN3a8Mn6Hog5kXJl5dMb0vJOpWQ9UhmG2m9UUZ9847wSlbW0vMHL0puuTso0365vilPO5JkapEXcFXdc3LDxXW8BR5NHyaN3VmvfD/qAqe4BiBx2+WAxsolTJQ5IMjG5tIN7WE6VJdUAm6EIgbuFfvG1KiWQJLHkLXdTvwdUTqX9JQYswfvoCwvHRh+I2mZX+/iH5HKLcaxqW8b9JnHCtfMSBZqLdI3nGIBw48tRul8lbrg0mJw==</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>96C55F5B-FC63-4598-9662-1E10A5EF7E8A</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.96C55F5B-FC63-4598-9662-1E10A5EF7E8A</string><key>PayloadDisplayName</key><string>DOD ID CA-39</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-39.cer</string><key>PayloadContent</key><data>MIIEuDCCA6CgAwIBAgICB8MwDQYJKoZIhvcNAQEFBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDIwHhcNMTUxMTA5MTQyMTU3WhcNMjExMTA4MTQyMTU3WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEVMBMGA1UEAxMMRE9EIElEIENBLTM5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyHukMtcVI9MuUvhC55JlteAPugFH0iElnuOH1uST9FQVwCueIgZEXFQ1HtQyK/N/Dt2nM89QFT6lJ55kAPhJtqYpGZYdfrirxWRTNzisQI2GoDTzID9iMYxd4wTikDvuTpV4H0s1sU6r9UqdouRFMZ+PrClHyTji8P9PrHY6+YSSLXu76fJgfKNdDBtIGaUhTA9CMOXvTJGJLiZTuViJobP9hAEWtgd/8C2GIdTwbQPb/R7fsM/joH94HX59A00Q6q2COz1JG6LB/GqvfIGpIx2NmLx6beRDQ1OpCs3mzqUTXmfQpZD6vweTXkyIGqlEgav5yahvvjm2Pp7O3VjbEwIDAQABo4IBhTCCAYEwHQYDVR0OBBYEFKrDk9xwD3lROQQd5f8p6BbIrpPGMB8GA1UdIwQYMBaAFEl0uwxeunr+AlTve6DGlcYJgHCWMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADAOBgNVHQ8BAf8EBAMCAYYwZgYDVR0gBF8wXTALBglghkgBZQIBCwUwCwYJYIZIAWUCAQsJMAsGCWCGSAFlAgELETALBglghkgBZQIBCxIwCwYJYIZIAWUCAQsTMAwGCmCGSAFlAwIBAxowDAYKYIZIAWUDAgEDGzA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EyLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBMl9JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBBQUAA4IBAQCvxzdd+7fyM+exiin8pLYIADkJ4pUEnO3xxayqEviFgD/kqy6VInSIWP+eajXsTAHQwsUiaV9i8ba+ejpZpkU83XgyWR873P0Vycg4o2pUdx1jhXzoMqEq/iZBvV6SEKqHRmK38eZ0mzAevAE8vEfr8o1RtwoPO+4Uh6pZpBcj4NWYgL9l+CDotlKivAMIy0nN+NFJ4SqPWXODhmFlBsCtGY0sJWRWn9sGi0kaEU0sOyqfSnGwchTS34D7MuaDYk7Usgx3Sto/Cpp7scmHsVq56evon9YHVxclT3NoWKy9HHxsMIjVVAEGpXOZ05LYW6O02EdsoZ/0UDsa8A8aV5aL</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>A5DFD763-4D78-4406-A761-1F5948902398</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.A5DFD763-4D78-4406-A761-1F5948902398</string><key>PayloadDisplayName</key><string>DOD ID CA-33</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-33.cer</string><key>PayloadContent</key><data>LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tDQpNSUlFdURDQ0E2Q2dBd0lCQWdJQ0I1d3dEUVlKS29aSWh2Y05BUUVGQlFBd1d6RUxNQWtHQTFVRUJoTUNWVk14DQpHREFXQmdOVkJBb1REMVV1VXk0Z1IyOTJaWEp1YldWdWRERU1NQW9HQTFVRUN4TURSRzlFTVF3d0NnWURWUVFMDQpFd05RUzBreEZqQVVCZ05WQkFNVERVUnZSQ0JTYjI5MElFTkJJREl3SGhjTk1UVXdPVEl6TVRNek1qTXlXaGNODQpNakV3T1RJeU1UTXpNak15V2pCYU1Rc3dDUVlEVlFRR0V3SlZVekVZTUJZR0ExVUVDaE1QVlM1VExpQkhiM1psDQpjbTV0Wlc1ME1Rd3dDZ1lEVlFRTEV3TkViMFF4RERBS0JnTlZCQXNUQTFCTFNURVZNQk1HQTFVRUF4TU1SRTlFDQpJRWxFSUVOQkxUTXpNSUlCSWpBTkJna3Foa2lHOXcwQkFRRUZBQU9DQVE4QU1JSUJDZ0tDQVFFQXgzMzk3Vnl5DQpVOGl3bnRpOHowODM1bTZvNU42YjlaYlBnMkF3Ykdac0JIRUEwYVc5THJnV3FWTmRSckZOK0w3M0lWZllocnBkDQpCOVNPNzJaR3NCZmVrVFBBSzQvZzBXUHdveERlTytqcEJERGJycC9tT3J4V2xac2VZNmpwU3ZFVG1ZZEJIdXFsDQpkbmgrSGJudU03L2M4NjNOclVIWnZxOVQ1K3dFSmVrdmhKT2t0YTkyK1dQUWhUbW9SR0R6L0MwazdFWVZJeFdCDQpYcU5EU3FiYjRlVCs5a2F2ZFpLTXVBTGhWL1F2aWoxVUM3RXl4WUdUNUdQY2xOdkNEdFJ4bW8zOTd2bWlaTXByDQpMdVhxeThESk5uUW1RZlJTRWtuWVJHMTMrVUFRc1lzMkdtQmMyTTduVVhoem1mbUFqRzNEUU5zN0Y2RDBtd3ltDQpQdXJNMjdGRTZyUXg4d0lEQVFBQm80SUJoVENDQVlFd0hRWURWUjBPQkJZRUZDMk8yZFNEOHVLUWpFdWZiL2xHDQo1MnBMemJ3bk1COEdBMVVkSXdRWU1CYUFGRWwwdXd4ZXVucitBbFR2ZTZER2xjWUpnSENXTUJJR0ExVWRFd0VCDQovd1FJTUFZQkFmOENBUUF3REFZRFZSMGtCQVV3QTRBQkFEQU9CZ05WSFE4QkFmOEVCQU1DQVlZd1pnWURWUjBnDQpCRjh3WFRBTEJnbGdoa2dCWlFJQkN3VXdDd1lKWUlaSUFXVUNBUXNKTUFzR0NXQ0dTQUZsQWdFTEVUQUxCZ2xnDQpoa2dCWlFJQkN4SXdDd1lKWUlaSUFXVUNBUXNUTUF3R0NtQ0dTQUZsQXdJQkF4b3dEQVlLWUlaSUFXVURBZ0VEDQpHekEzQmdOVkhSOEVNREF1TUN5Z0txQW9oaVpvZEhSd09pOHZZM0pzTG1ScGMyRXViV2xzTDJOeWJDOUVUMFJTDQpUMDlVUTBFeUxtTnliREJzQmdnckJnRUZCUWNCQVFSZ01GNHdPZ1lJS3dZQkJRVUhNQUtHTG1oMGRIQTZMeTlqDQpjbXd1WkdsellTNXRhV3d2YVhOemRXVmtkRzh2UkU5RVVrOVBWRU5CTWw5SlZDNXdOMk13SUFZSUt3WUJCUVVIDQpNQUdHRkdoMGRIQTZMeTl2WTNOd0xtUnBjMkV1Yldsc01BMEdDU3FHU0liM0RRRUJCUVVBQTRJQkFRQ3pxQjJ6DQpDcXZQRWhnRWdGRDkvZWJ0RkRtNmEzYzVKdFcrMUdSZ3Z3MkJtMHJWUTNOTmVjcitDMVlud1R2NGZ1dCs3NXJkDQphMlI3N01EeXN6Sll6TTZpMG5PNmYzMHhtNWRHS1BnR1M3SGlQRDNQaDQ3WExZL04rY3VBajBtb3dYQ09XSzU2DQpuMHV2WFU1REt4ckFlcWxiYVVPWWFreUN3NjdQenorRkJOU1dsVHhyakVrRzhycXpVSVk3VlhYOE10ZWN0SjY1DQpyYWhudGFydFR0K2dzT3pFQ0VMV0Z3b1J2UHpWN3BVclk5VlNuS1I4c2p1c254SzRKL2IwY1JrMlJibFhVZTNHDQpVbjlmWGZERG5VUTNDZ1F0YlNjZkRXT2VBYlBKZExZV1c3NVlTenN5VzAzYW1yT2kyYUJKWlUxRSs3aHZKa203DQpjdzhja0FXNXRKRDVTUmltDQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tDQo=</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>7D54472F-311B-4D1A-887E-2FB1B81F70CC</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.7D54472F-311B-4D1A-887E-2FB1B81F70CC</string><key>PayloadDisplayName</key><string>DOD ID CA-52</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-52.cer</string><key>PayloadContent</key><data>MIIEuTCCA6GgAwIBAgICASowDQYJKoZIhvcNAQELBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDMwHhcNMTYxMTIyMTM0OTU3WhcNMjIxMTIzMTM0OTU3WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UECgwPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLDANEb0QxDDAKBgNVBAsMA1BLSTEVMBMGA1UEAwwMRE9EIElEIENBLTUyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAltzcMp2O02t+fwd7rTlugoKqYF8eo/3M+JVdppPAHTiJVaVt0JSeM4xyZsKNoPBoFW/yshnxlRv/LyNx0VBbn+4mJ7Ea1U4FBPxCSZ68VYqKdV64UMhndawVBJM3Oy8Y3ZxPldTDf9ApCg4dZXSEiSnShO8YuphrNbYAd6YrdUn1IhDAhw90VTU3GMLru4vx60vFHscWeZHpHfET8AsClbAyqu65bsa1+o0XvGLQy2GTMzEVaR1NhYVWKRSwgqW57gbE8pV+63WYNwi8XIr/2TaJ5GvgBVCbgJWAwsSfFTz21ZqOou0d5xYu79iIIue5DEoRW1bmqserHNG7gsMvHwIDAQABo4IBhjCCAYIwHwYDVR0jBBgwFoAUbIqUonexgHIdgXoWqvLczmbuRcAwHQYDVR0OBBYEFJroUayRVNeUmgRI+iJ5/8bV7oYrMA4GA1UdDwEB/wQEAwIBhjBnBgNVHSAEYDBeMAsGCWCGSAFlAgELJDALBglghkgBZQIBCycwCwYJYIZIAWUCAQsqMAsGCWCGSAFlAgELOzAMBgpghkgBZQMCAQMNMAwGCmCGSAFlAwIBAxEwDAYKYIZIAWUDAgEDJzASBgNVHRMBAf8ECDAGAQH/AgEAMAwGA1UdJAQFMAOAAQAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5kaXNhLm1pbC9jcmwvRE9EUk9PVENBMy5jcmwwbAYIKwYBBQUHAQEEYDBeMDoGCCsGAQUFBzAChi5odHRwOi8vY3JsLmRpc2EubWlsL2lzc3VlZHRvL0RPRFJPT1RDQTNfSVQucDdjMCAGCCsGAQUFBzABhhRodHRwOi8vb2NzcC5kaXNhLm1pbDANBgkqhkiG9w0BAQsFAAOCAQEAkxvdsbOh2zGZCsj3nu9fHEMClJVtK4kJzPJZPi44gdSn+U8X5lbtT0kxsRrqCAZntlgQmp+DxnQClr35fjao3wF79nQaIOP2789a9VWZgyJfPrV2KLsxAH4/oOd2ZYdUtHfClbfZwbpxFulBqPWxysKQOx3XC/3LszCR0YFqbV/c5hBRB1A4sWBlF8KRGQyKdAycK7PrLcSMnLq04ugd5MfYWuJjJx/USNNWlil/LzqyCFzxPp4nGBB8y8s2LcZyvofhHIBN9qxl3+EXcJyeyqyNiVZcgJi+DLSmBCckb2J6lN9tbGWV02WK+8OiAiZ31CfJ/sezZ58EZayGYS031Q==</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>444BCD6C-A743-4C3F-A121-1F21B4D98AC4</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.444BCD6C-A743-4C3F-A121-1F21B4D98AC4</string><key>PayloadDisplayName</key><string>DOD ID CA-44</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-44.cer</string><key>PayloadContent</key><data>MIIEnTCCA4WgAwIBAgIBGzANBgkqhkiG9w0BAQsFADBbMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEWMBQGA1UEAxMNRG9EIFJvb3QgQ0EgMzAeFw0xNTExMDkxNjE4MTRaFw0yMTExMDkxNjE4MTRaMFoxCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0RvRDEMMAoGA1UECxMDUEtJMRUwEwYDVQQDEwxET0QgSUQgQ0EtNDQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDG3+Tty+pDoTJGbJvbL/uQUD5vXkR1G6vSxNSbFskImmrpLV2hr8uCGAFDL+Kb3dPaYLTEeaK934LqDC02+Cw4mLamoXKtfBGlFT1T3AHzpS4wJAhfrSGFGRBdY76jpTn1eiaWs+nbCLiJjpxQOQhp7caytsZnGvLNOFUc+QZJFsyAf06cpWEmo/iAx7KXLMPV6sbGTLqmkyqNxYPvqd1Ryyq2vi5Pqyw0swg2+wvkMhGIZ39ryJhgaU5vcAhd39z53tNU1ttpxP506Z4uDG9TmBciUFfs4uZbz9aOzT9YYs6enlh172PU48WfCFIQSOXjRcB9/XkDbtghMxTcmzgRAgMBAAGjggFrMIIBZzAfBgNVHSMEGDAWgBRsipSid7GAch2Behaq8tzOZu5FwDAdBgNVHQ4EFgQUMPnNVHOQG4Lyco6N7lZGokQpv/owDgYDVR0PAQH/BAQDAgGGMEwGA1UdIARFMEMwCwYJYIZIAWUCAQskMAsGCWCGSAFlAgELJzALBglghkgBZQIBCyowDAYKYIZIAWUDAgEDDTAMBgpghkgBZQMCAQMRMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EzLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBM19JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBCwUAA4IBAQCnFaVDUuNpbT4YazfYL4qKc/e0Zqd1wM10uqo+ayjzzP5HXLL2frAudguRVxFDC1WzjB16tc1GODUWY4OOxPCyUNKUJTU3G8qcXMabjEvCy9wLu/5FTvE0iumpvdpSGJb2v/pBc+Tofe17SgCTpOW+METZM5fiV6e8VrYaZalgYXrHg+DvdBpGSteccLFLORhZoq0ZpHh7QoHNVOi9sxLhEuhRTSGebRhTkYN99PzCBdD6ljQ0uShqB3r8uX1pVpBskdovm2JWSX40/QahFVDMwJPImlJ7lXRNvRrkqLHHPaTJ4R5spBJULmUEbqVfFXG5p/I9vNVF7YZCE5nzegTf</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>E1C7CE7F-8EB5-4480-B861-4B81F2C7568F</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.E1C7CE7F-8EB5-4480-B861-4B81F2C7568F</string><key>PayloadDisplayName</key><string>DOD ID CA-42</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-42.cer</string><key>PayloadContent</key><data>MIIEnTCCA4WgAwIBAgIBGTANBgkqhkiG9w0BAQsFADBbMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEWMBQGA1UEAxMNRG9EIFJvb3QgQ0EgMzAeFw0xNTExMDkxNjE1MDJaFw0yMTExMDkxNjE1MDJaMFoxCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0RvRDEMMAoGA1UECxMDUEtJMRUwEwYDVQQDEwxET0QgSUQgQ0EtNDIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCt4/+9beDb3g9kGg2MlznUY93COtiDLetMCks4aQ5/MYaSti6eoDw5L7EHlkNfnrO5XXKbQHZ7HqipwyE6uZ36WPEvU6ufin57Fr++aIYNk3xLAH4me6jT8qyrzn9FUBXh2UsnqCMo5jHl+6FJbsTq2/sSpIZl8SMUS4w6wNi/gRSrhdVfmJibhQgEj6QbvUr8aASzlyS9+zvMRTZq7JBDEPlbdsfE3mbGWvO0+PD8HMsNrj5rKL7wdoAzQDB/YisF/9ffJw8LcFPsUisUdZsFTk9L7qMCcgSfCtGfw5AEw4lcmIAiHRX0Apd/iJM4kADuHUFPYzM2EN4ngjDxK6jVAgMBAAGjggFrMIIBZzAfBgNVHSMEGDAWgBRsipSid7GAch2Behaq8tzOZu5FwDAdBgNVHQ4EFgQUMqAAylmLxM58e9veGSoQioZB0eMwDgYDVR0PAQH/BAQDAgGGMEwGA1UdIARFMEMwCwYJYIZIAWUCAQskMAsGCWCGSAFlAgELJzALBglghkgBZQIBCyowDAYKYIZIAWUDAgEDDTAMBgpghkgBZQMCAQMRMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EzLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBM19JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBCwUAA4IBAQA5hIjoPl6je1176wDm7i4FNGehuKkrM6KOqEZLyze2bkSRZXV8wIve6CkMxL89PLEa9BPXF/PpF5Wn2to4YZgZmx0j+3M9kIuIzDxKHAHBtfLoOXHiT/g9U9Scl09RiWVfhul13R7+Q6CQdKO1yu69bNtvL1Uxsz2LaGP3pFaSQklM+Ns56N3a2YJ3qNyjGnMoksBDFSkitYJJrWteHSv1iBv9FVge/d3SE9+Pq/WDQ22yK/0ph3gTEw61e9EYZ/TAeNb01Ju56bNo5lVHAz2UawrwGhRklJQhf/i9JRdagykYg4Zkczl+ZXN+0bfJDZ+kpis0wlcPrVzNKNpAVnzf</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>A878D1BA-0DFF-4C94-A2A0-D69318C7136E</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.A878D1BA-0DFF-4C94-A2A0-D69318C7136E</string><key>PayloadDisplayName</key><string>DOD ID CA-43</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-43.cer</string><key>PayloadContent</key><data>MIIEnTCCA4WgAwIBAgIBGjANBgkqhkiG9w0BAQsFADBbMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEWMBQGA1UEAxMNRG9EIFJvb3QgQ0EgMzAeFw0xNTExMDkxNjE2MDFaFw0yMTExMDkxNjE2MDFaMFoxCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0RvRDEMMAoGA1UECxMDUEtJMRUwEwYDVQQDEwxET0QgSUQgQ0EtNDMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCib5WKgEkwyV+HYIReCPRrFLoBoue/va3ODbll8dZITF5Dkj/Qpn/aE3cCVXkd1Oy38k+7MFGoI93xCKkxq+gdkeLGXEZ8tuwpuqeVHW7rjgd+2DgDuNWsXkN8UqfJvaMccLSjLfTIMS420x3sMtE5aOC+Zib6Ei7YlT5GUatw33BKSTZIsXqWa9tag6daktv1JonQOs9Wz+zCwZ806AmJhygNzv5scv0+Wtbns91UzwyTBSpYi8Go03YXU1znT/hciQC6uXRYxUWbBRkuJyc4AsGb2mwfcfG7Tv3LoO1sv1VUV0FswWGP9dFRX3DqjIzs5ylk58ooCXTCrwOYIXGPAgMBAAGjggFrMIIBZzAfBgNVHSMEGDAWgBRsipSid7GAch2Behaq8tzOZu5FwDAdBgNVHQ4EFgQUN6mSY1xcxJ27IUhTKKrUZFBmmkUwDgYDVR0PAQH/BAQDAgGGMEwGA1UdIARFMEMwCwYJYIZIAWUCAQskMAsGCWCGSAFlAgELJzALBglghkgBZQIBCyowDAYKYIZIAWUDAgEDDTAMBgpghkgBZQMCAQMRMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EzLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBM19JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBCwUAA4IBAQBqUrzdeqnC2ohoGUExkxayPe+h3TKunmYUBgFHOLtTw89DiGAypywUHgjSOqb1DQD7Z2JohlU2rRRn0ajIAii5DtPgGN4mB9Z5HsmdfZ8L+CMr/Jw7oYeaRLnyWoRW6cvGiM3opBewNo1192dqv7JYHaAGIVKSdLcESJNwp347nDD5MauXa8/2a20lsOOrcU8PgpBHhyRPDQoBaxjjSFtH+aA7KwvFaqsUpvgiTqNp5j41K0ayV0rdd/K3zRKcA2weMONqDXagcvDSCMOu3S6jS/M7oc3Sv4kKk8VjhcomhCvw6EHyLSiUMqNzlO71q5q3qMj9QOD6T4PK6/UxRD7D</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>26386DB0-9C30-4E64-AE8F-D040BFC1E4AB</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.26386DB0-9C30-4E64-AE8F-D040BFC1E4AB</string><key>PayloadDisplayName</key><string>DOD ID CA-41</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-41.cer</string><key>PayloadContent</key><data>MIIEnTCCA4WgAwIBAgIBGDANBgkqhkiG9w0BAQsFADBbMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEWMBQGA1UEAxMNRG9EIFJvb3QgQ0EgMzAeFw0xNTExMDkxNjEzNTZaFw0yMTExMDkxNjEzNTZaMFoxCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0RvRDEMMAoGA1UECxMDUEtJMRUwEwYDVQQDEwxET0QgSUQgQ0EtNDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3yXSI2Ca+LJHgzmhn2NH9Xk02+QoEPtO4K3oHa+XKeP2Mdk4ooFy3SLvizf84zDWzqVPoofEdpF1NpDT89rm5JOjaI5PBm9ct4rV0ZqH34DlARMVjthW6ySUp2YDDK5dGkZTACqknE2AaL777RyPLRESDp1p/J2yInUMvCc3wsJmqteSW5dUDpl7+S9SV2D+urf7zB5oB06D9i4YknSh3nnthtqHSCvNF0QtpynTydycBrZZ2Cv4lF/iVPpi89WDTAjwWc3u7HVxHqCi9Z6zB7eIIXtIRcKBJrqL7oExvAGu0C/1D6/dQfOqHa4cPEgllXfy38ZxfnUrFCih4TjD1AgMBAAGjggFrMIIBZzAfBgNVHSMEGDAWgBRsipSid7GAch2Behaq8tzOZu5FwDAdBgNVHQ4EFgQUW5HGRDbyKPL4z7LCyMpjSWGbIAowDgYDVR0PAQH/BAQDAgGGMEwGA1UdIARFMEMwCwYJYIZIAWUCAQskMAsGCWCGSAFlAgELJzALBglghkgBZQIBCyowDAYKYIZIAWUDAgEDDTAMBgpghkgBZQMCAQMRMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EzLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBM19JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBCwUAA4IBAQCh4rRiX98I1sgwJ/wFaLDtM3GlKTulDu7VGpGllllhbUpZiaHQ8pMV2goFboAOPXxMnl2N2UM/U4/9S2uW4mosQo2gbcNT7rbi/QhlEk4Zu6tZek3SvhFIq+fn/XhMqiMwIOUNqroh5BnvPGLQcMqfnLebTJmkcG4I6OmXP6enjh/JcdNnxMhZ1ZUju61+Sw8g14fKV6kAUdrGhQPZAceZyLvUajDRXLdxFX7LWip0IIFPD4eM2pLx94MPpbwFo4/l+rO8LK5BLxG4YV7hIiyauwtcREoNwjRyE0TJ8qTfmzXUzM7YyjBQytyeKHaEyDbULAe0vfUb9p1joxoGSOue</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>7D10D000-67D4-4992-A7B5-27599CF50623</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.7D10D000-67D4-4992-A7B5-27599CF50623</string><key>PayloadDisplayName</key><string>DOD ID CA-40</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-40.cer</string><key>PayloadContent</key><data>MIIEuDCCA6CgAwIBAgICB8QwDQYJKoZIhvcNAQEFBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDIwHhcNMTUxMTA5MTQyMjU0WhcNMjExMTA4MTQyMjU0WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEVMBMGA1UEAxMMRE9EIElEIENBLTQwMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsC0FbWsIla6+NfHD63GReLt85F4jdzs5mlNrXkjVlXJzksaIkmlHfqAWyo6ea8ShhqwdNnXgPlIb7ej4RoXFqXJIwsCrxQ7rev+sCdkL5UtxOxPq40wbjV+AcjF8Qmp9xoPyImxzlLebWWJ8HDgJl2HSLrIFibrRFeD0t6GLsT8JhOdQmqE8wRNypZH6oDIhygX3lhBeRDxuK/6zLMJ+srqG8DMJFJhz0kHh36ugbJJOPLyEGxwjyEicBqk44NFcmr8YWC24RM28QjruqwotlsI3woCaTHkVm37fc0xmbAPg4eggxrzXn3dFQE+cw40WBLpy0d0G05PMAC1LKPdccwIDAQABo4IBhTCCAYEwHQYDVR0OBBYEFM1bl5X91Ceq5yXxnIfW8gfX0Yc+MB8GA1UdIwQYMBaAFEl0uwxeunr+AlTve6DGlcYJgHCWMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADAOBgNVHQ8BAf8EBAMCAYYwZgYDVR0gBF8wXTALBglghkgBZQIBCwUwCwYJYIZIAWUCAQsJMAsGCWCGSAFlAgELETALBglghkgBZQIBCxIwCwYJYIZIAWUCAQsTMAwGCmCGSAFlAwIBAxowDAYKYIZIAWUDAgEDGzA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EyLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBMl9JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBBQUAA4IBAQBFRhX2izaXm5Yu4omDw2mbNo59EYAaITQCcUKbK6pwkmRYICu8DsjLMVhciOgeK4fn4OFAmYbLXWAtgSknNc+Hugb4WFoLWSb3EKZs8ocb/fR4eJLOKoY1PuRCuozS4yZFPet8RFInX8l7NQ41Zyu4O4QNzmcMz4pct0E+7nOisGEjh7/29Q0UmITPek60iVGEBIzzskjlclPzu7+qJseMF+cIV+DU5hFtEjXZ5HPn4fS2B/Fa15vkbnA9MvkxjFYjgLa6Xb/3zH5yYN2b20FluCxWyWD29UKXS5vwnXVGn4d+LIt5LPXbkgYt7uxgGCIkX2hahR0L51Yz9q3/sVvm</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>D27DAE49-143B-4A07-A782-E074A7779FC3</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.D27DAE49-143B-4A07-A782-E074A7779FC3</string><key>PayloadDisplayName</key><string>DOD ID CA-51</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-51.cer</string><key>PayloadContent</key><data>MIIEuTCCA6GgAwIBAgICASkwDQYJKoZIhvcNAQELBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDMwHhcNMTYxMTIyMTM0OTI3WhcNMjIxMTIzMTM0OTI3WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UECgwPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLDANEb0QxDDAKBgNVBAsMA1BLSTEVMBMGA1UEAwwMRE9EIElEIENBLTUxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjjtDs/iLTIf25t9SGGMP49gCFIYXcEtvTtc/vh+Cghf7qVwiNvUYCaGMq5q7F/pgL5xsw6BniCMau2bZtLfl5xnMk2VMl2GRwUayHQ/0lyteeKid6fa8sfnlyNLh8lvPuHqQFJZX5vpfAC24NDQCrr8YIkkNRyxJihCpj8HHYuzTplDRIpMljahhAWCsQkUqlq/5LiteXHYA/+EnT2hspkitSU+FUIWo0FKK95oo+i2uXX8x3cXWEUCXoR23Slk5NrGTwAsfTUd16xWA1acvksunx8eK3uOVCV02Q0sldVN19NaGm8lpoBfbtiNz3lo/j1VT558q35LmOYWI6KzSTwIDAQABo4IBhjCCAYIwHwYDVR0jBBgwFoAUbIqUonexgHIdgXoWqvLczmbuRcAwHQYDVR0OBBYEFJ2kwVzT+WZxSaiEIwO24a8pdy2uMA4GA1UdDwEB/wQEAwIBhjBnBgNVHSAEYDBeMAsGCWCGSAFlAgELJDALBglghkgBZQIBCycwCwYJYIZIAWUCAQsqMAsGCWCGSAFlAgELOzAMBgpghkgBZQMCAQMNMAwGCmCGSAFlAwIBAxEwDAYKYIZIAWUDAgEDJzASBgNVHRMBAf8ECDAGAQH/AgEAMAwGA1UdJAQFMAOAAQAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5kaXNhLm1pbC9jcmwvRE9EUk9PVENBMy5jcmwwbAYIKwYBBQUHAQEEYDBeMDoGCCsGAQUFBzAChi5odHRwOi8vY3JsLmRpc2EubWlsL2lzc3VlZHRvL0RPRFJPT1RDQTNfSVQucDdjMCAGCCsGAQUFBzABhhRodHRwOi8vb2NzcC5kaXNhLm1pbDANBgkqhkiG9w0BAQsFAAOCAQEAigQ4aOduTUCpDvC0ue0B0GV49B0aek8HXWKc10bPb1iUCQL2DT4aIf0u+yQqrzVpTw/x5mVPRn2Zi2iEV5A8PsN4dReF3lblQSrSVvKFw7cq66Z8ab2ijXjpAMTJCUIOir8wKoOV03cnVcaW0VDTH+gOslXnm95kPqdfbxJMh06Q00XfvWfRjfnB9D8ZDXbytM5XmkZRyuUvWY+DKyJUy1HAuardaFpgA5WowjeQm9sAvx72LzaS7zmv+hxOliGXYOn7gbJATcT+zt1Ffwa9M19FjoQDSzWihW8P5cFRt6xVEwZHeD8VG++jcQfAujwX0v7UhFKu8gxm3wlNXOalzA==</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>D08458AE-42C3-44B9-8808-7FC2F4EDDDCF</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.D08458AE-42C3-44B9-8808-7FC2F4EDDDCF</string><key>PayloadDisplayName</key><string>DOD ID CA-34</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-34.cer</string><key>PayloadContent</key><data>LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tDQpNSUlFdURDQ0E2Q2dBd0lCQWdJQ0I1OHdEUVlKS29aSWh2Y05BUUVGQlFBd1d6RUxNQWtHQTFVRUJoTUNWVk14DQpHREFXQmdOVkJBb1REMVV1VXk0Z1IyOTJaWEp1YldWdWRERU1NQW9HQTFVRUN4TURSRzlFTVF3d0NnWURWUVFMDQpFd05RUzBreEZqQVVCZ05WQkFNVERVUnZSQ0JTYjI5MElFTkJJREl3SGhjTk1UVXdPVEl6TVRNME1ETXdXaGNODQpNakV3T1RJeU1UTTBNRE13V2pCYU1Rc3dDUVlEVlFRR0V3SlZVekVZTUJZR0ExVUVDaE1QVlM1VExpQkhiM1psDQpjbTV0Wlc1ME1Rd3dDZ1lEVlFRTEV3TkViMFF4RERBS0JnTlZCQXNUQTFCTFNURVZNQk1HQTFVRUF4TU1SRTlFDQpJRWxFSUVOQkxUTTBNSUlCSWpBTkJna3Foa2lHOXcwQkFRRUZBQU9DQVE4QU1JSUJDZ0tDQVFFQXo3QXQvd01NDQpxcEk1NnNSclFscGh5dDdoVFVZaXRRbWEyallIUk9jVXFhUk9jcVc3UStzWlF1SDVsRU5MbFJQNnhkL21JWWFjDQordzM5MEUya1BiTVF3QTQ2eWIzOTlMVHZlN3BKb2V1a2RmTlVoZ0x0QkoxUjlLZzNJUkpoZ3I4Sjl2blk1bTVTDQp5K01zR0tod0E1WEhjR3RKdEMwTmlLWXV4bnFacEhwYTRwREhORmFSUUZsK25rYTEySzE1cXhQZ3lmNitybzRtDQpMSEpjRDJNay9LRTgyRVRsQmdJNVRSeHhTVkxlTzlQbkZQY055TE14RDJJS2UvMXpkb0hUcERVNmxJRWpsbjJ2DQoyMlFOMklicjFIQndPQUN3SVRXZU1Ncjl0VWcyZlF0SUJ6TGt5YkpiV3hnbzlKNWtQcG9xUWloMkVvNlpLa3k1DQpkU2RjdU9RcndyMk9Zd0lEQVFBQm80SUJoVENDQVlFd0hRWURWUjBPQkJZRUZCZ2tUTDFXbG8vRXlPUDlCV1dMDQptSWpqaUhER01COEdBMVVkSXdRWU1CYUFGRWwwdXd4ZXVucitBbFR2ZTZER2xjWUpnSENXTUJJR0ExVWRFd0VCDQovd1FJTUFZQkFmOENBUUF3REFZRFZSMGtCQVV3QTRBQkFEQU9CZ05WSFE4QkFmOEVCQU1DQVlZd1pnWURWUjBnDQpCRjh3WFRBTEJnbGdoa2dCWlFJQkN3VXdDd1lKWUlaSUFXVUNBUXNKTUFzR0NXQ0dTQUZsQWdFTEVUQUxCZ2xnDQpoa2dCWlFJQkN4SXdDd1lKWUlaSUFXVUNBUXNUTUF3R0NtQ0dTQUZsQXdJQkF4b3dEQVlLWUlaSUFXVURBZ0VEDQpHekEzQmdOVkhSOEVNREF1TUN5Z0txQW9oaVpvZEhSd09pOHZZM0pzTG1ScGMyRXViV2xzTDJOeWJDOUVUMFJTDQpUMDlVUTBFeUxtTnliREJzQmdnckJnRUZCUWNCQVFSZ01GNHdPZ1lJS3dZQkJRVUhNQUtHTG1oMGRIQTZMeTlqDQpjbXd1WkdsellTNXRhV3d2YVhOemRXVmtkRzh2UkU5RVVrOVBWRU5CTWw5SlZDNXdOMk13SUFZSUt3WUJCUVVIDQpNQUdHRkdoMGRIQTZMeTl2WTNOd0xtUnBjMkV1Yldsc01BMEdDU3FHU0liM0RRRUJCUVVBQTRJQkFRQUd4eXByDQo5bWJRdmRZMnRoQ0ozQU5EdUluMU1LOEloaVgzV2U1am9Cc2htVGNmaDcxREZLc052VXBzNEJQZGpmTkdjSG5nDQpDVGxnSHdlNE1Fc056VXBTa0QzZTJubTdqUHJpWGg0dFJMNVJKRkVLNnl4REwrazNMVEwwYy9nVmpqaHNuWm9pDQptcjJhOEpvV3lEVVZkVUptSGx5NE02R3REV3cybDZDaUVybzNMdjNwRXVVUnJnRStkZW1xM1dNaGI1SVp3NytODQpaaTRHYXBkT05YL2ErZTMwMjhIOUtWT0MySWJmSDlGWkdoTDk2ZzVZdEFTZCt0d0t5ZEFlbjYxTkU0OXdZWnFaDQpybjBFMlB5d1FTcVpqaXVpRU05RjNRTnpHVmQ5Z2V1eDRUSVl2enlRbDB5d1draW1abENRUGtRVWUvaE9VZFpXDQpNRkpmQXk4RVc4ejRYc1BjDQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tDQo=</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>A4A47F79-2B5D-420C-BB5E-566FCDB67B9A</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>com.apple.security.pkcs1.A4A47F79-2B5D-420C-BB5E-566FCDB67B9A</string><key>PayloadDisplayName</key><string>DOD ID CA-50</string><key>PayloadDescription</key><string>Adds a PKCS#1-formatted certificate</string><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DOD ID CA-50.cer</string><key>PayloadContent</key><data>MIIEuTCCA6GgAwIBAgICASgwDQYJKoZIhvcNAQELBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDMwHhcNMTYxMTIyMTM0ODQ3WhcNMjIxMTIzMTM0ODQ3WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UECgwPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLDANEb0QxDDAKBgNVBAsMA1BLSTEVMBMGA1UEAwwMRE9EIElEIENBLTUwMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy1ncM1bNJJHiu1Bh5jQ8r+Y1L2pvw+6YDLGE71z5gquBqisOC6XLKffKdBSF2U55vvp0m5J8WdF5DSfyfdAJ7S1HlzFYVW+0KjGLELKV5tWZh/aXu8V85ZaaYkvJeeEU5cIYWLKKRAr1iygwnslhy1Kb7xhYV7gLYc29Wm1EgZiJ2Xm9M11FIauo40EXmQFniz4FLE/S4JB1lbYiP1jGa4zJrdnec1k65tZk/K4hdi2diS+9mEUz3PWrzNqjrHKxFocnh9qSNGqJfyfXxXgKTrZw2UG83IxHKvIpMPodX4SYUwRm5HRbrG6c1Fx12NC2go16w3dDilH+aUduTNpmFQIDAQABo4IBhjCCAYIwHwYDVR0jBBgwFoAUbIqUonexgHIdgXoWqvLczmbuRcAwHQYDVR0OBBYEFDYuUt50qp7sux+T0b62ULXGaQv5MA4GA1UdDwEB/wQEAwIBhjBnBgNVHSAEYDBeMAsGCWCGSAFlAgELJDALBglghkgBZQIBCycwCwYJYIZIAWUCAQsqMAsGCWCGSAFlAgELOzAMBgpghkgBZQMCAQMNMAwGCmCGSAFlAwIBAxEwDAYKYIZIAWUDAgEDJzASBgNVHRMBAf8ECDAGAQH/AgEAMAwGA1UdJAQFMAOAAQAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5kaXNhLm1pbC9jcmwvRE9EUk9PVENBMy5jcmwwbAYIKwYBBQUHAQEEYDBeMDoGCCsGAQUFBzAChi5odHRwOi8vY3JsLmRpc2EubWlsL2lzc3VlZHRvL0RPRFJPT1RDQTNfSVQucDdjMCAGCCsGAQUFBzABhhRodHRwOi8vb2NzcC5kaXNhLm1pbDANBgkqhkiG9w0BAQsFAAOCAQEAbAlio7+gWX5YytmPMD9ic+aX2s0NaSdSauFYmb6khtN0CCocIqTI/TyfRJTjhI6wRNoackcjVa5H3EOp4vOrtLN4TxbhNqdE+IHafWE4/btDstI5PrA2hlFZb1zvM5EQC8u0BZQ/DqyShOjypvxldvol6UGjys7wecPxt3cBJC7uroY+nqfxHnOIxRFoJGdC7pSmf90/uDcX87oCbK/FrzJBO+/V2lGHiByC7ahcP59a4Xd69lHSMtRWquclAyBEy1Mxp7Bx/v5kCpv14JE6SBlYEwhFrTt4aT49FQEQ9aJFKRv7j20sS/6wxPzGx24HE0GbXwusK9jo5skGLLUC3g==</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict><dict><key>PayloadUUID</key><string>1ABF3322-CDCF-4961-A2D3-B8B183B65466</string><key>PayloadType</key><string>com.apple.security.pkcs1</string><key>PayloadOrganization</key><string>US Air Force (USAF)</string><key>PayloadIdentifier</key><string>1ABF3322-CDCF-4961-A2D3-B8B183B65466</string><key>PayloadDisplayName</key><string>DOD ID CA-59</string><key>PayloadDescription</key><string/><key>PayloadVersion</key><integer>1</integer><key>PayloadEnabled</key><true/><key>PayloadCertificateFileName</key><string>DODIDCA_59 (1).cer</string><key>PayloadContent</key><data>MIIEuTCCA6GgAwIBAgICAwUwDQYJKoZIhvcNAQELBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDMwHhcNMTkwNDAyMTMzODMyWhcNMjUwNDAyMTMzODMyWjBaMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEVMBMGA1UEAxMMRE9EIElEIENBLTU5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzBeEny3BCletEU01Vz8kRy8cD2OWvbtwMTyunFaShu+kIk6g5VRsnvbhK3Ho61MBmlGJc1pLSONGBhpbpyr2l2eONAzmi8c8917V7BpnJZvYj66qGRmY4FXX6UZQ6GdALKKedJKrMQfU8LmcBJ/LGcJ0F4635QocGs9UoFS5hLgVyflDTC/6x8EPbi/JXk6N6iod5JIAxNp6qW/5ZBvhiuMo19oYX5LuUy9B6W7cA0cRygvYcwKKYK+cIdBoxAj34yw2HJI8RQt490QPGClZhz0WYFuNSnUJgTHsdh2VNEn2AEe2zYhPFNlCu3gSmOSp5vxpZWbMIQ8cTv4pRWG47wIDAQABo4IBhjCCAYIwHwYDVR0jBBgwFoAUbIqUonexgHIdgXoWqvLczmbuRcAwHQYDVR0OBBYEFHUJphUTroc8+nOUAPLw9Xm5snIUMA4GA1UdDwEB/wQEAwIBhjBnBgNVHSAEYDBeMAsGCWCGSAFlAgELJDALBglghkgBZQIBCycwCwYJYIZIAWUCAQsqMAsGCWCGSAFlAgELOzAMBgpghkgBZQMCAQMNMAwGCmCGSAFlAwIBAxEwDAYKYIZIAWUDAgEDJzASBgNVHRMBAf8ECDAGAQH/AgEAMAwGA1UdJAQFMAOAAQAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5kaXNhLm1pbC9jcmwvRE9EUk9PVENBMy5jcmwwbAYIKwYBBQUHAQEEYDBeMDoGCCsGAQUFBzAChi5odHRwOi8vY3JsLmRpc2EubWlsL2lzc3VlZHRvL0RPRFJPT1RDQTNfSVQucDdjMCAGCCsGAQUFBzABhhRodHRwOi8vb2NzcC5kaXNhLm1pbDANBgkqhkiG9w0BAQsFAAOCAQEAOQUb0g6nPvWoc1cJ5gkhxSyGA3bQKu8HnKbg+vvMpMFEwo2p30RdYHGvA/3GGtrlhxBqAcOqeYF5TcXZ4+Fa9CbKE/AgloCuTjEYt2/0iaSvdw7y9Vqk7jyT9H1lFIAQHHN3TEwN1nr7HEWVkkg41GXFxU01UHfR7vgqTTz+3zZL2iCqADVDspna0W5pF6yMla6gn4u0TmWu2SeqBpctvdcfSFXkzQBZGT1aD/W2Fv00KwoQgB2l2eiVk56mEjN/MeI5Kp4n57mpREsHutP4XnLQ01ZN2qgn+844JRrzPQ0pazPYiSl4PeI2FUItErA6Ob/DPF0ba2y3k4dFkUTApw==</data><key>AllowAllAppsAccess</key><false/><key>KeyIsExtractable</key><true/></dict></array></dict></plist>
+<plist version="1">
+    <dict>
+        <key>PayloadUUID</key>
+        <string>90914F2E-81D5-4147-AFDE-708E072768D8</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadOrganization</key>
+        <string>United States Air Force</string>
+        <key>PayloadIdentifier</key>
+        <string>90914F2E-81D5-4147-AFDE-708E072768D8</string>
+        <key>PayloadDisplayName</key>
+        <string>DOD ID Intermediate CAs</string>
+        <key>PayloadDescription</key>
+        <string/>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadEnabled</key>
+        <true/>
+        <key>PayloadRemovalDisallowed</key>
+        <false/>
+        <key>PayloadScope</key>
+        <string>System</string>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>A2583A0F-3972-4E11-82BA-42AE688E8752</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.A2583A0F-3972-4E11-82BA-42AE688E8752</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-49</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-49.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEuTCCA6GgAwIBAgICAScwDQYJKoZIhvcNAQELBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDMwHhcNMTYxMTIyMTM0ODE1WhcNMjIxMTIzMTM0ODE1WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UECgwPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLDANEb0QxDDAKBgNVBAsMA1BLSTEVMBMGA1UEAwwMRE9EIElEIENBLTQ5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2EngKIwPCl9+dsIByO2uONNLKhpnFypBAE+LM8+kekt4/HG6StaU/fmqFTRiVI0Uh+td9BWe8NXOYrhQRo6FVSxBkLtWZX8Px2IHxiqQ1lnrZK9UlCo8h3MPpiN8VEjH2bP/WSa0oZEWzEDKLB5tSKerddc+QL2uEHb+Gfym6i+5qPOLXjV00FY24FdNOyHaRjQTM/LfsjWoFItHTKp5B9QogdKnyg+WkAARYtbd1nqtDXv6Fph5HaT39SEnRhc+lkrRDpDYc+HAU6Xywik+stgv2yFk1MhFpF5/rndEwMLIST0+lSpahJKGmYtg1VKcnDcq5CERC31gl6Yr7ffjAwIDAQABo4IBhjCCAYIwHwYDVR0jBBgwFoAUbIqUonexgHIdgXoWqvLczmbuRcAwHQYDVR0OBBYEFNhnk8pG3MmVppSzBBicziU6lhxNMA4GA1UdDwEB/wQEAwIBhjBnBgNVHSAEYDBeMAsGCWCGSAFlAgELJDALBglghkgBZQIBCycwCwYJYIZIAWUCAQsqMAsGCWCGSAFlAgELOzAMBgpghkgBZQMCAQMNMAwGCmCGSAFlAwIBAxEwDAYKYIZIAWUDAgEDJzASBgNVHRMBAf8ECDAGAQH/AgEAMAwGA1UdJAQFMAOAAQAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5kaXNhLm1pbC9jcmwvRE9EUk9PVENBMy5jcmwwbAYIKwYBBQUHAQEEYDBeMDoGCCsGAQUFBzAChi5odHRwOi8vY3JsLmRpc2EubWlsL2lzc3VlZHRvL0RPRFJPT1RDQTNfSVQucDdjMCAGCCsGAQUFBzABhhRodHRwOi8vb2NzcC5kaXNhLm1pbDANBgkqhkiG9w0BAQsFAAOCAQEATmfPQPkolF5PB0fS/9DrngX0tmdSwlidBtrkY6vL/V7IMKqJk7r+hHW6k9+nxijHFj6YJ1+4ElpH/PwWPsqwVIshQxECvJKfo3OfN3a8Mn6Hog5kXJl5dMb0vJOpWQ9UhmG2m9UUZ9847wSlbW0vMHL0puuTso0365vilPO5JkapEXcFXdc3LDxXW8BR5NHyaN3VmvfD/qAqe4BiBx2+WAxsolTJQ5IMjG5tIN7WE6VJdUAm6EIgbuFfvG1KiWQJLHkLXdTvwdUTqX9JQYswfvoCwvHRh+I2mZX+/iH5HKLcaxqW8b9JnHCtfMSBZqLdI3nGIBw48tRul8lbrg0mJw==</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>96C55F5B-FC63-4598-9662-1E10A5EF7E8A</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.96C55F5B-FC63-4598-9662-1E10A5EF7E8A</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-39</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-39.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEuDCCA6CgAwIBAgICB8MwDQYJKoZIhvcNAQEFBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDIwHhcNMTUxMTA5MTQyMTU3WhcNMjExMTA4MTQyMTU3WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEVMBMGA1UEAxMMRE9EIElEIENBLTM5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyHukMtcVI9MuUvhC55JlteAPugFH0iElnuOH1uST9FQVwCueIgZEXFQ1HtQyK/N/Dt2nM89QFT6lJ55kAPhJtqYpGZYdfrirxWRTNzisQI2GoDTzID9iMYxd4wTikDvuTpV4H0s1sU6r9UqdouRFMZ+PrClHyTji8P9PrHY6+YSSLXu76fJgfKNdDBtIGaUhTA9CMOXvTJGJLiZTuViJobP9hAEWtgd/8C2GIdTwbQPb/R7fsM/joH94HX59A00Q6q2COz1JG6LB/GqvfIGpIx2NmLx6beRDQ1OpCs3mzqUTXmfQpZD6vweTXkyIGqlEgav5yahvvjm2Pp7O3VjbEwIDAQABo4IBhTCCAYEwHQYDVR0OBBYEFKrDk9xwD3lROQQd5f8p6BbIrpPGMB8GA1UdIwQYMBaAFEl0uwxeunr+AlTve6DGlcYJgHCWMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADAOBgNVHQ8BAf8EBAMCAYYwZgYDVR0gBF8wXTALBglghkgBZQIBCwUwCwYJYIZIAWUCAQsJMAsGCWCGSAFlAgELETALBglghkgBZQIBCxIwCwYJYIZIAWUCAQsTMAwGCmCGSAFlAwIBAxowDAYKYIZIAWUDAgEDGzA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EyLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBMl9JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBBQUAA4IBAQCvxzdd+7fyM+exiin8pLYIADkJ4pUEnO3xxayqEviFgD/kqy6VInSIWP+eajXsTAHQwsUiaV9i8ba+ejpZpkU83XgyWR873P0Vycg4o2pUdx1jhXzoMqEq/iZBvV6SEKqHRmK38eZ0mzAevAE8vEfr8o1RtwoPO+4Uh6pZpBcj4NWYgL9l+CDotlKivAMIy0nN+NFJ4SqPWXODhmFlBsCtGY0sJWRWn9sGi0kaEU0sOyqfSnGwchTS34D7MuaDYk7Usgx3Sto/Cpp7scmHsVq56evon9YHVxclT3NoWKy9HHxsMIjVVAEGpXOZ05LYW6O02EdsoZ/0UDsa8A8aV5aL</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>A5DFD763-4D78-4406-A761-1F5948902398</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.A5DFD763-4D78-4406-A761-1F5948902398</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-33</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-33.cer</string>
+                <key>PayloadContent</key>
+                <data>LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tDQpNSUlFdURDQ0E2Q2dBd0lCQWdJQ0I1d3dEUVlKS29aSWh2Y05BUUVGQlFBd1d6RUxNQWtHQTFVRUJoTUNWVk14DQpHREFXQmdOVkJBb1REMVV1VXk0Z1IyOTJaWEp1YldWdWRERU1NQW9HQTFVRUN4TURSRzlFTVF3d0NnWURWUVFMDQpFd05RUzBreEZqQVVCZ05WQkFNVERVUnZSQ0JTYjI5MElFTkJJREl3SGhjTk1UVXdPVEl6TVRNek1qTXlXaGNODQpNakV3T1RJeU1UTXpNak15V2pCYU1Rc3dDUVlEVlFRR0V3SlZVekVZTUJZR0ExVUVDaE1QVlM1VExpQkhiM1psDQpjbTV0Wlc1ME1Rd3dDZ1lEVlFRTEV3TkViMFF4RERBS0JnTlZCQXNUQTFCTFNURVZNQk1HQTFVRUF4TU1SRTlFDQpJRWxFSUVOQkxUTXpNSUlCSWpBTkJna3Foa2lHOXcwQkFRRUZBQU9DQVE4QU1JSUJDZ0tDQVFFQXgzMzk3Vnl5DQpVOGl3bnRpOHowODM1bTZvNU42YjlaYlBnMkF3Ykdac0JIRUEwYVc5THJnV3FWTmRSckZOK0w3M0lWZllocnBkDQpCOVNPNzJaR3NCZmVrVFBBSzQvZzBXUHdveERlTytqcEJERGJycC9tT3J4V2xac2VZNmpwU3ZFVG1ZZEJIdXFsDQpkbmgrSGJudU03L2M4NjNOclVIWnZxOVQ1K3dFSmVrdmhKT2t0YTkyK1dQUWhUbW9SR0R6L0MwazdFWVZJeFdCDQpYcU5EU3FiYjRlVCs5a2F2ZFpLTXVBTGhWL1F2aWoxVUM3RXl4WUdUNUdQY2xOdkNEdFJ4bW8zOTd2bWlaTXByDQpMdVhxeThESk5uUW1RZlJTRWtuWVJHMTMrVUFRc1lzMkdtQmMyTTduVVhoem1mbUFqRzNEUU5zN0Y2RDBtd3ltDQpQdXJNMjdGRTZyUXg4d0lEQVFBQm80SUJoVENDQVlFd0hRWURWUjBPQkJZRUZDMk8yZFNEOHVLUWpFdWZiL2xHDQo1MnBMemJ3bk1COEdBMVVkSXdRWU1CYUFGRWwwdXd4ZXVucitBbFR2ZTZER2xjWUpnSENXTUJJR0ExVWRFd0VCDQovd1FJTUFZQkFmOENBUUF3REFZRFZSMGtCQVV3QTRBQkFEQU9CZ05WSFE4QkFmOEVCQU1DQVlZd1pnWURWUjBnDQpCRjh3WFRBTEJnbGdoa2dCWlFJQkN3VXdDd1lKWUlaSUFXVUNBUXNKTUFzR0NXQ0dTQUZsQWdFTEVUQUxCZ2xnDQpoa2dCWlFJQkN4SXdDd1lKWUlaSUFXVUNBUXNUTUF3R0NtQ0dTQUZsQXdJQkF4b3dEQVlLWUlaSUFXVURBZ0VEDQpHekEzQmdOVkhSOEVNREF1TUN5Z0txQW9oaVpvZEhSd09pOHZZM0pzTG1ScGMyRXViV2xzTDJOeWJDOUVUMFJTDQpUMDlVUTBFeUxtTnliREJzQmdnckJnRUZCUWNCQVFSZ01GNHdPZ1lJS3dZQkJRVUhNQUtHTG1oMGRIQTZMeTlqDQpjbXd1WkdsellTNXRhV3d2YVhOemRXVmtkRzh2UkU5RVVrOVBWRU5CTWw5SlZDNXdOMk13SUFZSUt3WUJCUVVIDQpNQUdHRkdoMGRIQTZMeTl2WTNOd0xtUnBjMkV1Yldsc01BMEdDU3FHU0liM0RRRUJCUVVBQTRJQkFRQ3pxQjJ6DQpDcXZQRWhnRWdGRDkvZWJ0RkRtNmEzYzVKdFcrMUdSZ3Z3MkJtMHJWUTNOTmVjcitDMVlud1R2NGZ1dCs3NXJkDQphMlI3N01EeXN6Sll6TTZpMG5PNmYzMHhtNWRHS1BnR1M3SGlQRDNQaDQ3WExZL04rY3VBajBtb3dYQ09XSzU2DQpuMHV2WFU1REt4ckFlcWxiYVVPWWFreUN3NjdQenorRkJOU1dsVHhyakVrRzhycXpVSVk3VlhYOE10ZWN0SjY1DQpyYWhudGFydFR0K2dzT3pFQ0VMV0Z3b1J2UHpWN3BVclk5VlNuS1I4c2p1c254SzRKL2IwY1JrMlJibFhVZTNHDQpVbjlmWGZERG5VUTNDZ1F0YlNjZkRXT2VBYlBKZExZV1c3NVlTenN5VzAzYW1yT2kyYUJKWlUxRSs3aHZKa203DQpjdzhja0FXNXRKRDVTUmltDQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tDQo=</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>7D54472F-311B-4D1A-887E-2FB1B81F70CC</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.7D54472F-311B-4D1A-887E-2FB1B81F70CC</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-52</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-52.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEuTCCA6GgAwIBAgICASowDQYJKoZIhvcNAQELBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDMwHhcNMTYxMTIyMTM0OTU3WhcNMjIxMTIzMTM0OTU3WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UECgwPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLDANEb0QxDDAKBgNVBAsMA1BLSTEVMBMGA1UEAwwMRE9EIElEIENBLTUyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAltzcMp2O02t+fwd7rTlugoKqYF8eo/3M+JVdppPAHTiJVaVt0JSeM4xyZsKNoPBoFW/yshnxlRv/LyNx0VBbn+4mJ7Ea1U4FBPxCSZ68VYqKdV64UMhndawVBJM3Oy8Y3ZxPldTDf9ApCg4dZXSEiSnShO8YuphrNbYAd6YrdUn1IhDAhw90VTU3GMLru4vx60vFHscWeZHpHfET8AsClbAyqu65bsa1+o0XvGLQy2GTMzEVaR1NhYVWKRSwgqW57gbE8pV+63WYNwi8XIr/2TaJ5GvgBVCbgJWAwsSfFTz21ZqOou0d5xYu79iIIue5DEoRW1bmqserHNG7gsMvHwIDAQABo4IBhjCCAYIwHwYDVR0jBBgwFoAUbIqUonexgHIdgXoWqvLczmbuRcAwHQYDVR0OBBYEFJroUayRVNeUmgRI+iJ5/8bV7oYrMA4GA1UdDwEB/wQEAwIBhjBnBgNVHSAEYDBeMAsGCWCGSAFlAgELJDALBglghkgBZQIBCycwCwYJYIZIAWUCAQsqMAsGCWCGSAFlAgELOzAMBgpghkgBZQMCAQMNMAwGCmCGSAFlAwIBAxEwDAYKYIZIAWUDAgEDJzASBgNVHRMBAf8ECDAGAQH/AgEAMAwGA1UdJAQFMAOAAQAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5kaXNhLm1pbC9jcmwvRE9EUk9PVENBMy5jcmwwbAYIKwYBBQUHAQEEYDBeMDoGCCsGAQUFBzAChi5odHRwOi8vY3JsLmRpc2EubWlsL2lzc3VlZHRvL0RPRFJPT1RDQTNfSVQucDdjMCAGCCsGAQUFBzABhhRodHRwOi8vb2NzcC5kaXNhLm1pbDANBgkqhkiG9w0BAQsFAAOCAQEAkxvdsbOh2zGZCsj3nu9fHEMClJVtK4kJzPJZPi44gdSn+U8X5lbtT0kxsRrqCAZntlgQmp+DxnQClr35fjao3wF79nQaIOP2789a9VWZgyJfPrV2KLsxAH4/oOd2ZYdUtHfClbfZwbpxFulBqPWxysKQOx3XC/3LszCR0YFqbV/c5hBRB1A4sWBlF8KRGQyKdAycK7PrLcSMnLq04ugd5MfYWuJjJx/USNNWlil/LzqyCFzxPp4nGBB8y8s2LcZyvofhHIBN9qxl3+EXcJyeyqyNiVZcgJi+DLSmBCckb2J6lN9tbGWV02WK+8OiAiZ31CfJ/sezZ58EZayGYS031Q==</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>444BCD6C-A743-4C3F-A121-1F21B4D98AC4</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.444BCD6C-A743-4C3F-A121-1F21B4D98AC4</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-44</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-44.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEnTCCA4WgAwIBAgIBGzANBgkqhkiG9w0BAQsFADBbMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEWMBQGA1UEAxMNRG9EIFJvb3QgQ0EgMzAeFw0xNTExMDkxNjE4MTRaFw0yMTExMDkxNjE4MTRaMFoxCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0RvRDEMMAoGA1UECxMDUEtJMRUwEwYDVQQDEwxET0QgSUQgQ0EtNDQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDG3+Tty+pDoTJGbJvbL/uQUD5vXkR1G6vSxNSbFskImmrpLV2hr8uCGAFDL+Kb3dPaYLTEeaK934LqDC02+Cw4mLamoXKtfBGlFT1T3AHzpS4wJAhfrSGFGRBdY76jpTn1eiaWs+nbCLiJjpxQOQhp7caytsZnGvLNOFUc+QZJFsyAf06cpWEmo/iAx7KXLMPV6sbGTLqmkyqNxYPvqd1Ryyq2vi5Pqyw0swg2+wvkMhGIZ39ryJhgaU5vcAhd39z53tNU1ttpxP506Z4uDG9TmBciUFfs4uZbz9aOzT9YYs6enlh172PU48WfCFIQSOXjRcB9/XkDbtghMxTcmzgRAgMBAAGjggFrMIIBZzAfBgNVHSMEGDAWgBRsipSid7GAch2Behaq8tzOZu5FwDAdBgNVHQ4EFgQUMPnNVHOQG4Lyco6N7lZGokQpv/owDgYDVR0PAQH/BAQDAgGGMEwGA1UdIARFMEMwCwYJYIZIAWUCAQskMAsGCWCGSAFlAgELJzALBglghkgBZQIBCyowDAYKYIZIAWUDAgEDDTAMBgpghkgBZQMCAQMRMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EzLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBM19JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBCwUAA4IBAQCnFaVDUuNpbT4YazfYL4qKc/e0Zqd1wM10uqo+ayjzzP5HXLL2frAudguRVxFDC1WzjB16tc1GODUWY4OOxPCyUNKUJTU3G8qcXMabjEvCy9wLu/5FTvE0iumpvdpSGJb2v/pBc+Tofe17SgCTpOW+METZM5fiV6e8VrYaZalgYXrHg+DvdBpGSteccLFLORhZoq0ZpHh7QoHNVOi9sxLhEuhRTSGebRhTkYN99PzCBdD6ljQ0uShqB3r8uX1pVpBskdovm2JWSX40/QahFVDMwJPImlJ7lXRNvRrkqLHHPaTJ4R5spBJULmUEbqVfFXG5p/I9vNVF7YZCE5nzegTf</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>E1C7CE7F-8EB5-4480-B861-4B81F2C7568F</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.E1C7CE7F-8EB5-4480-B861-4B81F2C7568F</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-42</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-42.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEnTCCA4WgAwIBAgIBGTANBgkqhkiG9w0BAQsFADBbMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEWMBQGA1UEAxMNRG9EIFJvb3QgQ0EgMzAeFw0xNTExMDkxNjE1MDJaFw0yMTExMDkxNjE1MDJaMFoxCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0RvRDEMMAoGA1UECxMDUEtJMRUwEwYDVQQDEwxET0QgSUQgQ0EtNDIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCt4/+9beDb3g9kGg2MlznUY93COtiDLetMCks4aQ5/MYaSti6eoDw5L7EHlkNfnrO5XXKbQHZ7HqipwyE6uZ36WPEvU6ufin57Fr++aIYNk3xLAH4me6jT8qyrzn9FUBXh2UsnqCMo5jHl+6FJbsTq2/sSpIZl8SMUS4w6wNi/gRSrhdVfmJibhQgEj6QbvUr8aASzlyS9+zvMRTZq7JBDEPlbdsfE3mbGWvO0+PD8HMsNrj5rKL7wdoAzQDB/YisF/9ffJw8LcFPsUisUdZsFTk9L7qMCcgSfCtGfw5AEw4lcmIAiHRX0Apd/iJM4kADuHUFPYzM2EN4ngjDxK6jVAgMBAAGjggFrMIIBZzAfBgNVHSMEGDAWgBRsipSid7GAch2Behaq8tzOZu5FwDAdBgNVHQ4EFgQUMqAAylmLxM58e9veGSoQioZB0eMwDgYDVR0PAQH/BAQDAgGGMEwGA1UdIARFMEMwCwYJYIZIAWUCAQskMAsGCWCGSAFlAgELJzALBglghkgBZQIBCyowDAYKYIZIAWUDAgEDDTAMBgpghkgBZQMCAQMRMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EzLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBM19JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBCwUAA4IBAQA5hIjoPl6je1176wDm7i4FNGehuKkrM6KOqEZLyze2bkSRZXV8wIve6CkMxL89PLEa9BPXF/PpF5Wn2to4YZgZmx0j+3M9kIuIzDxKHAHBtfLoOXHiT/g9U9Scl09RiWVfhul13R7+Q6CQdKO1yu69bNtvL1Uxsz2LaGP3pFaSQklM+Ns56N3a2YJ3qNyjGnMoksBDFSkitYJJrWteHSv1iBv9FVge/d3SE9+Pq/WDQ22yK/0ph3gTEw61e9EYZ/TAeNb01Ju56bNo5lVHAz2UawrwGhRklJQhf/i9JRdagykYg4Zkczl+ZXN+0bfJDZ+kpis0wlcPrVzNKNpAVnzf</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>A878D1BA-0DFF-4C94-A2A0-D69318C7136E</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.A878D1BA-0DFF-4C94-A2A0-D69318C7136E</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-43</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-43.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEnTCCA4WgAwIBAgIBGjANBgkqhkiG9w0BAQsFADBbMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEWMBQGA1UEAxMNRG9EIFJvb3QgQ0EgMzAeFw0xNTExMDkxNjE2MDFaFw0yMTExMDkxNjE2MDFaMFoxCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0RvRDEMMAoGA1UECxMDUEtJMRUwEwYDVQQDEwxET0QgSUQgQ0EtNDMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCib5WKgEkwyV+HYIReCPRrFLoBoue/va3ODbll8dZITF5Dkj/Qpn/aE3cCVXkd1Oy38k+7MFGoI93xCKkxq+gdkeLGXEZ8tuwpuqeVHW7rjgd+2DgDuNWsXkN8UqfJvaMccLSjLfTIMS420x3sMtE5aOC+Zib6Ei7YlT5GUatw33BKSTZIsXqWa9tag6daktv1JonQOs9Wz+zCwZ806AmJhygNzv5scv0+Wtbns91UzwyTBSpYi8Go03YXU1znT/hciQC6uXRYxUWbBRkuJyc4AsGb2mwfcfG7Tv3LoO1sv1VUV0FswWGP9dFRX3DqjIzs5ylk58ooCXTCrwOYIXGPAgMBAAGjggFrMIIBZzAfBgNVHSMEGDAWgBRsipSid7GAch2Behaq8tzOZu5FwDAdBgNVHQ4EFgQUN6mSY1xcxJ27IUhTKKrUZFBmmkUwDgYDVR0PAQH/BAQDAgGGMEwGA1UdIARFMEMwCwYJYIZIAWUCAQskMAsGCWCGSAFlAgELJzALBglghkgBZQIBCyowDAYKYIZIAWUDAgEDDTAMBgpghkgBZQMCAQMRMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EzLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBM19JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBCwUAA4IBAQBqUrzdeqnC2ohoGUExkxayPe+h3TKunmYUBgFHOLtTw89DiGAypywUHgjSOqb1DQD7Z2JohlU2rRRn0ajIAii5DtPgGN4mB9Z5HsmdfZ8L+CMr/Jw7oYeaRLnyWoRW6cvGiM3opBewNo1192dqv7JYHaAGIVKSdLcESJNwp347nDD5MauXa8/2a20lsOOrcU8PgpBHhyRPDQoBaxjjSFtH+aA7KwvFaqsUpvgiTqNp5j41K0ayV0rdd/K3zRKcA2weMONqDXagcvDSCMOu3S6jS/M7oc3Sv4kKk8VjhcomhCvw6EHyLSiUMqNzlO71q5q3qMj9QOD6T4PK6/UxRD7D</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>26386DB0-9C30-4E64-AE8F-D040BFC1E4AB</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.26386DB0-9C30-4E64-AE8F-D040BFC1E4AB</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-41</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-41.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEnTCCA4WgAwIBAgIBGDANBgkqhkiG9w0BAQsFADBbMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEWMBQGA1UEAxMNRG9EIFJvb3QgQ0EgMzAeFw0xNTExMDkxNjEzNTZaFw0yMTExMDkxNjEzNTZaMFoxCzAJBgNVBAYTAlVTMRgwFgYDVQQKEw9VLlMuIEdvdmVybm1lbnQxDDAKBgNVBAsTA0RvRDEMMAoGA1UECxMDUEtJMRUwEwYDVQQDEwxET0QgSUQgQ0EtNDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC3yXSI2Ca+LJHgzmhn2NH9Xk02+QoEPtO4K3oHa+XKeP2Mdk4ooFy3SLvizf84zDWzqVPoofEdpF1NpDT89rm5JOjaI5PBm9ct4rV0ZqH34DlARMVjthW6ySUp2YDDK5dGkZTACqknE2AaL777RyPLRESDp1p/J2yInUMvCc3wsJmqteSW5dUDpl7+S9SV2D+urf7zB5oB06D9i4YknSh3nnthtqHSCvNF0QtpynTydycBrZZ2Cv4lF/iVPpi89WDTAjwWc3u7HVxHqCi9Z6zB7eIIXtIRcKBJrqL7oExvAGu0C/1D6/dQfOqHa4cPEgllXfy38ZxfnUrFCih4TjD1AgMBAAGjggFrMIIBZzAfBgNVHSMEGDAWgBRsipSid7GAch2Behaq8tzOZu5FwDAdBgNVHQ4EFgQUW5HGRDbyKPL4z7LCyMpjSWGbIAowDgYDVR0PAQH/BAQDAgGGMEwGA1UdIARFMEMwCwYJYIZIAWUCAQskMAsGCWCGSAFlAgELJzALBglghkgBZQIBCyowDAYKYIZIAWUDAgEDDTAMBgpghkgBZQMCAQMRMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EzLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBM19JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBCwUAA4IBAQCh4rRiX98I1sgwJ/wFaLDtM3GlKTulDu7VGpGllllhbUpZiaHQ8pMV2goFboAOPXxMnl2N2UM/U4/9S2uW4mosQo2gbcNT7rbi/QhlEk4Zu6tZek3SvhFIq+fn/XhMqiMwIOUNqroh5BnvPGLQcMqfnLebTJmkcG4I6OmXP6enjh/JcdNnxMhZ1ZUju61+Sw8g14fKV6kAUdrGhQPZAceZyLvUajDRXLdxFX7LWip0IIFPD4eM2pLx94MPpbwFo4/l+rO8LK5BLxG4YV7hIiyauwtcREoNwjRyE0TJ8qTfmzXUzM7YyjBQytyeKHaEyDbULAe0vfUb9p1joxoGSOue</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>7D10D000-67D4-4992-A7B5-27599CF50623</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.7D10D000-67D4-4992-A7B5-27599CF50623</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-40</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-40.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEuDCCA6CgAwIBAgICB8QwDQYJKoZIhvcNAQEFBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDIwHhcNMTUxMTA5MTQyMjU0WhcNMjExMTA4MTQyMjU0WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEVMBMGA1UEAxMMRE9EIElEIENBLTQwMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsC0FbWsIla6+NfHD63GReLt85F4jdzs5mlNrXkjVlXJzksaIkmlHfqAWyo6ea8ShhqwdNnXgPlIb7ej4RoXFqXJIwsCrxQ7rev+sCdkL5UtxOxPq40wbjV+AcjF8Qmp9xoPyImxzlLebWWJ8HDgJl2HSLrIFibrRFeD0t6GLsT8JhOdQmqE8wRNypZH6oDIhygX3lhBeRDxuK/6zLMJ+srqG8DMJFJhz0kHh36ugbJJOPLyEGxwjyEicBqk44NFcmr8YWC24RM28QjruqwotlsI3woCaTHkVm37fc0xmbAPg4eggxrzXn3dFQE+cw40WBLpy0d0G05PMAC1LKPdccwIDAQABo4IBhTCCAYEwHQYDVR0OBBYEFM1bl5X91Ceq5yXxnIfW8gfX0Yc+MB8GA1UdIwQYMBaAFEl0uwxeunr+AlTve6DGlcYJgHCWMBIGA1UdEwEB/wQIMAYBAf8CAQAwDAYDVR0kBAUwA4ABADAOBgNVHQ8BAf8EBAMCAYYwZgYDVR0gBF8wXTALBglghkgBZQIBCwUwCwYJYIZIAWUCAQsJMAsGCWCGSAFlAgELETALBglghkgBZQIBCxIwCwYJYIZIAWUCAQsTMAwGCmCGSAFlAwIBAxowDAYKYIZIAWUDAgEDGzA3BgNVHR8EMDAuMCygKqAohiZodHRwOi8vY3JsLmRpc2EubWlsL2NybC9ET0RST09UQ0EyLmNybDBsBggrBgEFBQcBAQRgMF4wOgYIKwYBBQUHMAKGLmh0dHA6Ly9jcmwuZGlzYS5taWwvaXNzdWVkdG8vRE9EUk9PVENBMl9JVC5wN2MwIAYIKwYBBQUHMAGGFGh0dHA6Ly9vY3NwLmRpc2EubWlsMA0GCSqGSIb3DQEBBQUAA4IBAQBFRhX2izaXm5Yu4omDw2mbNo59EYAaITQCcUKbK6pwkmRYICu8DsjLMVhciOgeK4fn4OFAmYbLXWAtgSknNc+Hugb4WFoLWSb3EKZs8ocb/fR4eJLOKoY1PuRCuozS4yZFPet8RFInX8l7NQ41Zyu4O4QNzmcMz4pct0E+7nOisGEjh7/29Q0UmITPek60iVGEBIzzskjlclPzu7+qJseMF+cIV+DU5hFtEjXZ5HPn4fS2B/Fa15vkbnA9MvkxjFYjgLa6Xb/3zH5yYN2b20FluCxWyWD29UKXS5vwnXVGn4d+LIt5LPXbkgYt7uxgGCIkX2hahR0L51Yz9q3/sVvm</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>D27DAE49-143B-4A07-A782-E074A7779FC3</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.D27DAE49-143B-4A07-A782-E074A7779FC3</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-51</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-51.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEuTCCA6GgAwIBAgICASkwDQYJKoZIhvcNAQELBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDMwHhcNMTYxMTIyMTM0OTI3WhcNMjIxMTIzMTM0OTI3WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UECgwPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLDANEb0QxDDAKBgNVBAsMA1BLSTEVMBMGA1UEAwwMRE9EIElEIENBLTUxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjjtDs/iLTIf25t9SGGMP49gCFIYXcEtvTtc/vh+Cghf7qVwiNvUYCaGMq5q7F/pgL5xsw6BniCMau2bZtLfl5xnMk2VMl2GRwUayHQ/0lyteeKid6fa8sfnlyNLh8lvPuHqQFJZX5vpfAC24NDQCrr8YIkkNRyxJihCpj8HHYuzTplDRIpMljahhAWCsQkUqlq/5LiteXHYA/+EnT2hspkitSU+FUIWo0FKK95oo+i2uXX8x3cXWEUCXoR23Slk5NrGTwAsfTUd16xWA1acvksunx8eK3uOVCV02Q0sldVN19NaGm8lpoBfbtiNz3lo/j1VT558q35LmOYWI6KzSTwIDAQABo4IBhjCCAYIwHwYDVR0jBBgwFoAUbIqUonexgHIdgXoWqvLczmbuRcAwHQYDVR0OBBYEFJ2kwVzT+WZxSaiEIwO24a8pdy2uMA4GA1UdDwEB/wQEAwIBhjBnBgNVHSAEYDBeMAsGCWCGSAFlAgELJDALBglghkgBZQIBCycwCwYJYIZIAWUCAQsqMAsGCWCGSAFlAgELOzAMBgpghkgBZQMCAQMNMAwGCmCGSAFlAwIBAxEwDAYKYIZIAWUDAgEDJzASBgNVHRMBAf8ECDAGAQH/AgEAMAwGA1UdJAQFMAOAAQAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5kaXNhLm1pbC9jcmwvRE9EUk9PVENBMy5jcmwwbAYIKwYBBQUHAQEEYDBeMDoGCCsGAQUFBzAChi5odHRwOi8vY3JsLmRpc2EubWlsL2lzc3VlZHRvL0RPRFJPT1RDQTNfSVQucDdjMCAGCCsGAQUFBzABhhRodHRwOi8vb2NzcC5kaXNhLm1pbDANBgkqhkiG9w0BAQsFAAOCAQEAigQ4aOduTUCpDvC0ue0B0GV49B0aek8HXWKc10bPb1iUCQL2DT4aIf0u+yQqrzVpTw/x5mVPRn2Zi2iEV5A8PsN4dReF3lblQSrSVvKFw7cq66Z8ab2ijXjpAMTJCUIOir8wKoOV03cnVcaW0VDTH+gOslXnm95kPqdfbxJMh06Q00XfvWfRjfnB9D8ZDXbytM5XmkZRyuUvWY+DKyJUy1HAuardaFpgA5WowjeQm9sAvx72LzaS7zmv+hxOliGXYOn7gbJATcT+zt1Ffwa9M19FjoQDSzWihW8P5cFRt6xVEwZHeD8VG++jcQfAujwX0v7UhFKu8gxm3wlNXOalzA==</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>D08458AE-42C3-44B9-8808-7FC2F4EDDDCF</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.D08458AE-42C3-44B9-8808-7FC2F4EDDDCF</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-34</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-34.cer</string>
+                <key>PayloadContent</key>
+                <data>LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tDQpNSUlFdURDQ0E2Q2dBd0lCQWdJQ0I1OHdEUVlKS29aSWh2Y05BUUVGQlFBd1d6RUxNQWtHQTFVRUJoTUNWVk14DQpHREFXQmdOVkJBb1REMVV1VXk0Z1IyOTJaWEp1YldWdWRERU1NQW9HQTFVRUN4TURSRzlFTVF3d0NnWURWUVFMDQpFd05RUzBreEZqQVVCZ05WQkFNVERVUnZSQ0JTYjI5MElFTkJJREl3SGhjTk1UVXdPVEl6TVRNME1ETXdXaGNODQpNakV3T1RJeU1UTTBNRE13V2pCYU1Rc3dDUVlEVlFRR0V3SlZVekVZTUJZR0ExVUVDaE1QVlM1VExpQkhiM1psDQpjbTV0Wlc1ME1Rd3dDZ1lEVlFRTEV3TkViMFF4RERBS0JnTlZCQXNUQTFCTFNURVZNQk1HQTFVRUF4TU1SRTlFDQpJRWxFSUVOQkxUTTBNSUlCSWpBTkJna3Foa2lHOXcwQkFRRUZBQU9DQVE4QU1JSUJDZ0tDQVFFQXo3QXQvd01NDQpxcEk1NnNSclFscGh5dDdoVFVZaXRRbWEyallIUk9jVXFhUk9jcVc3UStzWlF1SDVsRU5MbFJQNnhkL21JWWFjDQordzM5MEUya1BiTVF3QTQ2eWIzOTlMVHZlN3BKb2V1a2RmTlVoZ0x0QkoxUjlLZzNJUkpoZ3I4Sjl2blk1bTVTDQp5K01zR0tod0E1WEhjR3RKdEMwTmlLWXV4bnFacEhwYTRwREhORmFSUUZsK25rYTEySzE1cXhQZ3lmNitybzRtDQpMSEpjRDJNay9LRTgyRVRsQmdJNVRSeHhTVkxlTzlQbkZQY055TE14RDJJS2UvMXpkb0hUcERVNmxJRWpsbjJ2DQoyMlFOMklicjFIQndPQUN3SVRXZU1Ncjl0VWcyZlF0SUJ6TGt5YkpiV3hnbzlKNWtQcG9xUWloMkVvNlpLa3k1DQpkU2RjdU9RcndyMk9Zd0lEQVFBQm80SUJoVENDQVlFd0hRWURWUjBPQkJZRUZCZ2tUTDFXbG8vRXlPUDlCV1dMDQptSWpqaUhER01COEdBMVVkSXdRWU1CYUFGRWwwdXd4ZXVucitBbFR2ZTZER2xjWUpnSENXTUJJR0ExVWRFd0VCDQovd1FJTUFZQkFmOENBUUF3REFZRFZSMGtCQVV3QTRBQkFEQU9CZ05WSFE4QkFmOEVCQU1DQVlZd1pnWURWUjBnDQpCRjh3WFRBTEJnbGdoa2dCWlFJQkN3VXdDd1lKWUlaSUFXVUNBUXNKTUFzR0NXQ0dTQUZsQWdFTEVUQUxCZ2xnDQpoa2dCWlFJQkN4SXdDd1lKWUlaSUFXVUNBUXNUTUF3R0NtQ0dTQUZsQXdJQkF4b3dEQVlLWUlaSUFXVURBZ0VEDQpHekEzQmdOVkhSOEVNREF1TUN5Z0txQW9oaVpvZEhSd09pOHZZM0pzTG1ScGMyRXViV2xzTDJOeWJDOUVUMFJTDQpUMDlVUTBFeUxtTnliREJzQmdnckJnRUZCUWNCQVFSZ01GNHdPZ1lJS3dZQkJRVUhNQUtHTG1oMGRIQTZMeTlqDQpjbXd1WkdsellTNXRhV3d2YVhOemRXVmtkRzh2UkU5RVVrOVBWRU5CTWw5SlZDNXdOMk13SUFZSUt3WUJCUVVIDQpNQUdHRkdoMGRIQTZMeTl2WTNOd0xtUnBjMkV1Yldsc01BMEdDU3FHU0liM0RRRUJCUVVBQTRJQkFRQUd4eXByDQo5bWJRdmRZMnRoQ0ozQU5EdUluMU1LOEloaVgzV2U1am9Cc2htVGNmaDcxREZLc052VXBzNEJQZGpmTkdjSG5nDQpDVGxnSHdlNE1Fc056VXBTa0QzZTJubTdqUHJpWGg0dFJMNVJKRkVLNnl4REwrazNMVEwwYy9nVmpqaHNuWm9pDQptcjJhOEpvV3lEVVZkVUptSGx5NE02R3REV3cybDZDaUVybzNMdjNwRXVVUnJnRStkZW1xM1dNaGI1SVp3NytODQpaaTRHYXBkT05YL2ErZTMwMjhIOUtWT0MySWJmSDlGWkdoTDk2ZzVZdEFTZCt0d0t5ZEFlbjYxTkU0OXdZWnFaDQpybjBFMlB5d1FTcVpqaXVpRU05RjNRTnpHVmQ5Z2V1eDRUSVl2enlRbDB5d1draW1abENRUGtRVWUvaE9VZFpXDQpNRkpmQXk4RVc4ejRYc1BjDQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tDQo=</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>A4A47F79-2B5D-420C-BB5E-566FCDB67B9A</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>com.apple.security.pkcs1.A4A47F79-2B5D-420C-BB5E-566FCDB67B9A</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-50</string>
+                <key>PayloadDescription</key>
+                <string>Adds a PKCS#1-formatted certificate</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DOD ID CA-50.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEuTCCA6GgAwIBAgICASgwDQYJKoZIhvcNAQELBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDMwHhcNMTYxMTIyMTM0ODQ3WhcNMjIxMTIzMTM0ODQ3WjBaMQswCQYDVQQGEwJVUzEYMBYGA1UECgwPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLDANEb0QxDDAKBgNVBAsMA1BLSTEVMBMGA1UEAwwMRE9EIElEIENBLTUwMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy1ncM1bNJJHiu1Bh5jQ8r+Y1L2pvw+6YDLGE71z5gquBqisOC6XLKffKdBSF2U55vvp0m5J8WdF5DSfyfdAJ7S1HlzFYVW+0KjGLELKV5tWZh/aXu8V85ZaaYkvJeeEU5cIYWLKKRAr1iygwnslhy1Kb7xhYV7gLYc29Wm1EgZiJ2Xm9M11FIauo40EXmQFniz4FLE/S4JB1lbYiP1jGa4zJrdnec1k65tZk/K4hdi2diS+9mEUz3PWrzNqjrHKxFocnh9qSNGqJfyfXxXgKTrZw2UG83IxHKvIpMPodX4SYUwRm5HRbrG6c1Fx12NC2go16w3dDilH+aUduTNpmFQIDAQABo4IBhjCCAYIwHwYDVR0jBBgwFoAUbIqUonexgHIdgXoWqvLczmbuRcAwHQYDVR0OBBYEFDYuUt50qp7sux+T0b62ULXGaQv5MA4GA1UdDwEB/wQEAwIBhjBnBgNVHSAEYDBeMAsGCWCGSAFlAgELJDALBglghkgBZQIBCycwCwYJYIZIAWUCAQsqMAsGCWCGSAFlAgELOzAMBgpghkgBZQMCAQMNMAwGCmCGSAFlAwIBAxEwDAYKYIZIAWUDAgEDJzASBgNVHRMBAf8ECDAGAQH/AgEAMAwGA1UdJAQFMAOAAQAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5kaXNhLm1pbC9jcmwvRE9EUk9PVENBMy5jcmwwbAYIKwYBBQUHAQEEYDBeMDoGCCsGAQUFBzAChi5odHRwOi8vY3JsLmRpc2EubWlsL2lzc3VlZHRvL0RPRFJPT1RDQTNfSVQucDdjMCAGCCsGAQUFBzABhhRodHRwOi8vb2NzcC5kaXNhLm1pbDANBgkqhkiG9w0BAQsFAAOCAQEAbAlio7+gWX5YytmPMD9ic+aX2s0NaSdSauFYmb6khtN0CCocIqTI/TyfRJTjhI6wRNoackcjVa5H3EOp4vOrtLN4TxbhNqdE+IHafWE4/btDstI5PrA2hlFZb1zvM5EQC8u0BZQ/DqyShOjypvxldvol6UGjys7wecPxt3cBJC7uroY+nqfxHnOIxRFoJGdC7pSmf90/uDcX87oCbK/FrzJBO+/V2lGHiByC7ahcP59a4Xd69lHSMtRWquclAyBEy1Mxp7Bx/v5kCpv14JE6SBlYEwhFrTt4aT49FQEQ9aJFKRv7j20sS/6wxPzGx24HE0GbXwusK9jo5skGLLUC3g==</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>1ABF3322-CDCF-4961-A2D3-B8B183B65466</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.pkcs1</string>
+                <key>PayloadOrganization</key>
+                <string>US Air Force (USAF)</string>
+                <key>PayloadIdentifier</key>
+                <string>1ABF3322-CDCF-4961-A2D3-B8B183B65466</string>
+                <key>PayloadDisplayName</key>
+                <string>DOD ID CA-59</string>
+                <key>PayloadDescription</key>
+                <string/>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>DODIDCA_59 (1).cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEuTCCA6GgAwIBAgICAwUwDQYJKoZIhvcNAQELBQAwWzELMAkGA1UEBhMCVVMxGDAWBgNVBAoTD1UuUy4gR292ZXJubWVudDEMMAoGA1UECxMDRG9EMQwwCgYDVQQLEwNQS0kxFjAUBgNVBAMTDURvRCBSb290IENBIDMwHhcNMTkwNDAyMTMzODMyWhcNMjUwNDAyMTMzODMyWjBaMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNEb0QxDDAKBgNVBAsTA1BLSTEVMBMGA1UEAxMMRE9EIElEIENBLTU5MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzBeEny3BCletEU01Vz8kRy8cD2OWvbtwMTyunFaShu+kIk6g5VRsnvbhK3Ho61MBmlGJc1pLSONGBhpbpyr2l2eONAzmi8c8917V7BpnJZvYj66qGRmY4FXX6UZQ6GdALKKedJKrMQfU8LmcBJ/LGcJ0F4635QocGs9UoFS5hLgVyflDTC/6x8EPbi/JXk6N6iod5JIAxNp6qW/5ZBvhiuMo19oYX5LuUy9B6W7cA0cRygvYcwKKYK+cIdBoxAj34yw2HJI8RQt490QPGClZhz0WYFuNSnUJgTHsdh2VNEn2AEe2zYhPFNlCu3gSmOSp5vxpZWbMIQ8cTv4pRWG47wIDAQABo4IBhjCCAYIwHwYDVR0jBBgwFoAUbIqUonexgHIdgXoWqvLczmbuRcAwHQYDVR0OBBYEFHUJphUTroc8+nOUAPLw9Xm5snIUMA4GA1UdDwEB/wQEAwIBhjBnBgNVHSAEYDBeMAsGCWCGSAFlAgELJDALBglghkgBZQIBCycwCwYJYIZIAWUCAQsqMAsGCWCGSAFlAgELOzAMBgpghkgBZQMCAQMNMAwGCmCGSAFlAwIBAxEwDAYKYIZIAWUDAgEDJzASBgNVHRMBAf8ECDAGAQH/AgEAMAwGA1UdJAQFMAOAAQAwNwYDVR0fBDAwLjAsoCqgKIYmaHR0cDovL2NybC5kaXNhLm1pbC9jcmwvRE9EUk9PVENBMy5jcmwwbAYIKwYBBQUHAQEEYDBeMDoGCCsGAQUFBzAChi5odHRwOi8vY3JsLmRpc2EubWlsL2lzc3VlZHRvL0RPRFJPT1RDQTNfSVQucDdjMCAGCCsGAQUFBzABhhRodHRwOi8vb2NzcC5kaXNhLm1pbDANBgkqhkiG9w0BAQsFAAOCAQEAOQUb0g6nPvWoc1cJ5gkhxSyGA3bQKu8HnKbg+vvMpMFEwo2p30RdYHGvA/3GGtrlhxBqAcOqeYF5TcXZ4+Fa9CbKE/AgloCuTjEYt2/0iaSvdw7y9Vqk7jyT9H1lFIAQHHN3TEwN1nr7HEWVkkg41GXFxU01UHfR7vgqTTz+3zZL2iCqADVDspna0W5pF6yMla6gn4u0TmWu2SeqBpctvdcfSFXkzQBZGT1aD/W2Fv00KwoQgB2l2eiVk56mEjN/MeI5Kp4n57mpREsHutP4XnLQ01ZN2qgn+844JRrzPQ0pazPYiSl4PeI2FUItErA6Ob/DPF0ba2y3k4dFkUTApw==</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+        </array>
+    </dict>
+</plist>
