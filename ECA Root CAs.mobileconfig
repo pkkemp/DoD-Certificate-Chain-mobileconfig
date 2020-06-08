@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1">
+    <dict>
+        <key>PayloadUUID</key>
+        <string>B6406DF7-6986-4DC3-AE2C-3F3C522EFCC1</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadOrganization</key>
+        <string>United States Air Force</string>
+        <key>PayloadIdentifier</key>
+        <string>B6406DF7-6986-4DC3-AE2C-3F3C522EFCC1</string>
+        <key>PayloadDisplayName</key>
+        <string>ECA Root CAs</string>
+        <key>PayloadDescription</key>
+        <string/>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadEnabled</key>
+        <true/>
+        <key>PayloadRemovalDisallowed</key>
+        <true/>
+        <key>PayloadScope</key>
+        <string>System</string>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>6ECBFF70-A91C-414F-8448-DA2A90DDF4A3</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.root</string>
+                <key>PayloadOrganization</key>
+                <string>United States Air Force</string>
+                <key>PayloadIdentifier</key>
+                <string>6ECBFF70-A91C-414F-8448-DA2A90DDF4A3</string>
+                <key>PayloadDisplayName</key>
+                <string>ECA Root 2</string>
+                <key>PayloadDescription</key>
+                <string/>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>0-ECA_Root_CA_2.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIEOjCCAyKgAwIBAgIBBTANBgkqhkiG9w0BAQUFADBNMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNFQ0ExFjAUBgNVBAMTDUVDQSBSb290IENBIDIwHhcNMDgwNDA0MTQyNDQ5WhcNMjgwMzMwMTQyNDQ5WjBNMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNFQ0ExFjAUBgNVBAMTDUVDQSBSb290IENBIDIwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCzkNge75rtbkexRmFGjaNWCJxKMsdF8tKkpGa+fj2XgO/p12vp4MA7jeL4EvoTNaTNWoaLsNAvNIz3Be2Hb6cwF9AWxlhGvZX5VhqI1E4eflgfG6JzFZ1eiwYkE3Y8n2BirbC19OAkwVP32Rw3HeY88PrT8fmhmPE3hdjPAmDwoDiUS1EoCcIX/ECkYXkOtIwbIIJi9eSa1imKNvofgcChETFL/lb92L9RkydZ2vWDPkSk39UgZ+ufAKf73jG2YzEcPfccbAmNf/S6nKh8HwHGgG0BAdg3qP4tfSvCy9bpnLqUjXYW3syBdQR7QXcVZRXJrAC2v+sc3LmNZC3/NdvFAgMBAAGjggEjMIIBHzAdBgNVHQ4EFgQU7eSH0CfEUOaEOvfM9+s6SfxSTiEwDgYDVR0PAQH/BAQDAgGGMA8GA1UdEwEB/wQFMAMBAf8wgdwGCCsGAQUFBwELBIHPMIHMMEMGCCsGAQUFBzAFhjdodHRwOi8vY3JsLmdkcy5kaXNhLm1pbC9nZXRJc3N1ZWRCeT9FQ0ElMjBSb290JTIwQ0ElMjAyMIGEBggrBgEFBQcwBYZ4bGRhcDovL2NybC5nZHMuZGlzYS5taWwvY24lM2RFQ0ElMjBSb290JTIwQ0ElMjAyJTJjb3UlM2RFQ0ElMmNvJTNkVS5TLiUyMEdvdmVybm1lbnQlMmNjJTNkVVM/Y3Jvc3NDZXJ0aWZpY2F0ZVBhaXI7YmluYXJ5MA0GCSqGSIb3DQEBBQUAA4IBAQBKzBvnhYiTI9m5vs+68TWUwUs8E3Bdgy5OfsFWDy3Bfh8N6d3+Apl8YOOGqrmGI8MXfscRD+PQQlajHPNwj7GIkbW8DoklZsg/XzYqDj62Z0CMPUDfp2LgOBj6JG0tI9PAuHRelURUeiGXD1rNw/yVPSIiFd0YYF2FN6lN94H8vUqmWIxPv8dlof/i0zRIGhcBMvKE894FsmRJmDfNIfWogVtkxdp8WLBhYR+twK3tNLaUq8ec7GWXKYWUlDPENSSLPc38Nyq7+qS2G5DylVcXSODvqZ2tAOKxZNlneRGDuZroCzI2ziBn43ptS+peU+UvMEHd+OVUnanXacZ12UVH</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+            <dict>
+                <key>PayloadUUID</key>
+                <string>333A6E67-6C46-4C85-A94A-B9A05E3B7BF8</string>
+                <key>PayloadType</key>
+                <string>com.apple.security.root</string>
+                <key>PayloadOrganization</key>
+                <string>United States Air Force</string>
+                <key>PayloadIdentifier</key>
+                <string>333A6E67-6C46-4C85-A94A-B9A05E3B7BF8</string>
+                <key>PayloadDisplayName</key>
+                <string>ECA Root 4</string>
+                <key>PayloadDescription</key>
+                <string/>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadCertificateFileName</key>
+                <string>0-ECA_Root_CA_4.cer</string>
+                <key>PayloadContent</key>
+                <data>MIIDVzCCAj+gAwIBAgIBATANBgkqhkiG9w0BAQsFADBNMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNFQ0ExFjAUBgNVBAMTDUVDQSBSb290IENBIDQwHhcNMTIwMzIwMTYxMzA0WhcNMjkxMjMwMTYxMzA0WjBNMQswCQYDVQQGEwJVUzEYMBYGA1UEChMPVS5TLiBHb3Zlcm5tZW50MQwwCgYDVQQLEwNFQ0ExFjAUBgNVBAMTDUVDQSBSb290IENBIDQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4cGlXvYBaQcAZ5pXn1IIT3Cw4S4qCyhyIXY5+PAxvZeHauBxxGLbeFAh528aKme36Id1iGAAt8BTMWk53nvLodxQDFMap/bISoGf/Hzd60HCPltdwJA4tnUVePAAT7qA6MRqQIFdl5DAXxskEed0e/6DI71+sACU6Ab+WnASVjq1Ss5Fw9PTsM+EPCBeCuIYKPznR3JA5xz65MymD2QroE+BePQ0lgMRszywugCrQLUBJG8SctvM2KSbsMQBzGs13la3lLEvxFCk26DFc3vVcj3ZbqwHWz+fNJ6v0tHNQQjQlh1daHlSZO5sB6sXdlaOwcrbscKEqqoX68ak4lBUHAgMBAAGjQjBAMB0GA1UdDgQWBBQzW6VvelVgK4FLJhTMeb9KuosyvTAOBgNVHQ8BAf8EBAMCAYYwDwYDVR0TAQH/BAUwAwEB/zANBgkqhkiG9w0BAQsFAAOCAQEAth9heIa+tXpxF4rx10UCFfe6IMXlk2klXhVxOU7B0djoe0O7jRnRwCDf502ril1/gCCNje8CaIrVAJwhtwWs57ePsZRTPblu+PfoglXRKCRlgOUWx7BEC9OEUkMjyNr7XvYBhtk3v/1uuFDIDeY8dPoLbo/yjMPfULefKPiuUByazL52bkra9LUoNaEdcpF2GiDvOshEkMAdBnuwzbjB5rJbT0gVWiOjaskGWnyMiERxiZrnat49Ca/Ry7yVpwhXjlGhMRHTcfCD71DH7nlsOyNj+Jpmbg4pIButJc25uL8b0nNAAMNNrIlk8XOgg4kOGnSYqJQ8tnTslE4CFesxbg==</data>
+                <key>AllowAllAppsAccess</key>
+                <false/>
+                <key>KeyIsExtractable</key>
+                <true/>
+            </dict>
+        </array>
+    </dict>
+</plist>
